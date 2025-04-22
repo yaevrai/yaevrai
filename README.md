@@ -1,5 +1,7 @@
 # 👋 Hi, I'm @yaevrai
 
+<div align="center">
+
 ## 🚀 About Me
 A passionate Java developer with a keen eye for robust backend solutions and enterprise application development!
 
@@ -20,15 +22,15 @@ A passionate Java developer with a keen eye for robust backend solutions and ent
 </div>
 
 ## 👀 Interests
-- Domain Driven Design
 - Enterprise Java Application Development
 - Database Optimization
 - Cloud Computing Solutions
 
 ## 🌱 Currently Learning
+- Domain-Driven Design
+- Event-Driven Architecture
 - Advanced Spring Framework Techniques
 - Microservices Architecture
-- Cloud Native Development
 - Performance Tuning Strategies
 
 ## 💞️ Collaboration Interests
@@ -57,5 +59,5 @@ A passionate Java developer with a keen eye for robust backend solutions and ent
 ## 🔥 Current Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaevrai)
 
-
+</div>
 
