@@ -43,14 +43,4 @@ A passionate Java developer with a keen eye for robust backend solutions and ent
 
 🏖️ Beach lover
 
-
-## <span>📊 GitHub Stats</span>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaevrai&show_icons=true&theme=radical)
-
-## <span>💻 Most Used Languages</span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaevrai&layout=compact)
-
-## <span>🔥 Current Streak</span>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaevrai)
-
 </div>
